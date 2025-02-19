@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flango2023 or can call me  Richard :)
+- 👋 Hi, I’m @flango2023 or just call me  Richard :)
 - 👀 I’m interested in AI/ML and Cloud. Also, I'm an active Bodybuilder and I love traveling. 
 - 🌱 I’m currently learning Cloud and AI/ML for future job possibilities. 
 - 📫 How to reach me: Linkedin ( https://www.linkedin.com/in/richard-schmitz01) or Email: schmitz.de@icloud.com
