@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardschmitz" alt="richardschmitz" /></a> </p>
 
-- 🔭 I'm currently working on **AgroConnect Hub and FarmTech Solutions**
+- 🔭 I'm currently working on AgroConnect Hub and FarmTech Solutions and learning IoT in Agriculture**
 
-- 🌱 I'm currently learning **IoT in Agriculture**
-
-- 👯 I'm looking to collaborate on **AgTech projects, AI, ML and many more**
+- 👯 I'm looking to collaborate on  AI / ML, and AWS projectse**
 
 
 - 📫 How to reach me **schmitz.de@icloud.com**
@@ -18,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richard-schmitz01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
