@@ -1,43 +1,31 @@
+<h1 align="center">Hi 👋, I'm Richard </h1>
+<h3 align="center">A passionate AI/ ML developer from Brazil</h3>
 
-# Hi there! 👋 I'm Richard Schmitz
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardschmitz&label=Profile%20views&color=0e75b6&style=flat" alt="richardschmitz" /> </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AgTech+Enthusiast;Data+Science+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardschmitz" alt="richardschmitz" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I'm currently working on **AgroConnect Hub and FarmTech Solutions**
 
-I'm a passionate developer focused on **AgTech solutions** and **data-driven agriculture**. Currently working on innovative projects that bridge technology and farming.
+- 🌱 I'm currently learning **IoT in Agriculture**
 
-- 🌱 Working on **AgroConnect Hub** and **FarmTech Solutions**
-- 🔭 Exploring **IoT in Agriculture** and **Precision Farming**
-- 📊 Passionate about **Data Analysis** and **Agricultural Analytics**
-- 🎓 Studying at **FIAP**
-- 💡 Open to **AgTech collaborations**
+- 👯 I'm looking to collaborate on **AgTech projects, AI, ML and many more**
 
-## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 📫 How to reach me **schmitz.de@icloud.com**
 
-## 📊 GitHub Stats
+- ⚡ Fun fact **I believe AI technology can revolutionize the World**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardschmitz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardschmitz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+</p>
 
-## 🌟 Featured Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> </p>
 
-[![AgroConnect Hub](https://github-readme-stats.vercel.app/api/pin/?username=richardschmitz&repo=AgroConnect-Hub-Project&theme=tokyonight&hide_border=true)](https://github.com/richardschmitz/AgroConnect-Hub-Project)
-[![FarmTech Solutions](https://github-readme-stats.vercel.app/api/pin/?username=richardschmitz&repo=farmtech_solutions&theme=tokyonight&hide_border=true)](https://github.com/richardschmitz/farmtech_solutions)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardschmitz&show_icons=true&locale=en&layout=compact" alt="richardschmitz" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardschmitz&show_icons=true&locale=en" alt="richardschmitz" /></p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=richardschmitz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardschmitz&" alt="richardschmitz" /></p>
