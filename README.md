@@ -5,14 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardschmitz" alt="richardschmitz" /></a> </p>
 
-- 🔭 I'm currently working on AgroConnect Hub and FarmTech Solutions and learning IoT in Agriculture**
+Currently working on AgroConnect Hub and FarmTech Solutions and learning IoT in Agriculture**
 
-- 👯 I'm looking to collaborate on  AI / ML, and AWS projectse**
+I'm looking to collaborate on  AI / ML, and AWS projectse**
 
-
-- 📫 How to reach me **schmitz.de@icloud.com**
-
-- ⚡ Fun fact **I believe AI technology can revolutionize the World**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
