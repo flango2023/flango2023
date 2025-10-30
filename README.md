@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardschmitz" alt="richardschmitz" /></a> </p>
 
-Currently working on AgroConnect Hub and FarmTech Solutions and learning IoT in Agriculture**
+Currently working on AgroConnect Hub and FarmTech Solutions and learning IoT in Agriculture.
 
-I'm looking to collaborate on  AI / ML, and AWS projectse**
+I'm looking to collaborate on  AI/ML, and AWS projects.
 
 
 <h3 align="left">Connect with me:</h3>
